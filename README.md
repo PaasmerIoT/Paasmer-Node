@@ -50,20 +50,20 @@ $ npm install node-red-contrib-paasmer
 * This node requires Paasmer login information, device information and feeds configuration. 
 * You have to configure the node details and click “Done”
 
- ![image]({https://github.com/PaasmerIoT/Paasmer-Node/blob/master/Images/Paasmer_config.png})
+ ![image](https://github.com/PaasmerIoT/Paasmer-Node/blob/master/Images/Paasmer_config.png?raw=true)
 
 ## Paasmer Out & Paasmer In Nodes:-
 * These are the nodes that interact with your feeds. Paasmer Out node will send sensor data to Paasmer platform and Paasmer In node helps to control your actuators.
 * To configure nodes, select anyone of the node and create a device connection, and click Update and then click on done. Select the same connection to other node also.
  
 ### Paasmer In Node
- ![image]({https://github.com/PaasmerIoT/Paasmer-Node/blob/master/Images/Paasmer_In.png})
+ ![image](https://github.com/PaasmerIoT/Paasmer-Node/blob/master/Images/Paasmer_In.png?raw=true)
 ### Paasmer Out Node
-![image]({https://github.com/PaasmerIoT/Paasmer-Node/blob/master/Images/Paasmer_Out.png})
+![image](https://github.com/PaasmerIoT/Paasmer-Node/blob/master/Images/Paasmer_Out.png?raw=true)
 
 #### Wiring
 * Connect Paasmer-config output to Paasmer-out node (choose from palette) and input to Inject Node at an interval.
 * Connect Paasmer-out node input to Paasmer-config out node.
 * Connect Paasmer-in node output to Debug node, and check feed controlling data.
-![image]({https://github.com/PaasmerIoT/Paasmer-Node/blob/master/Images/Paasmer_Wiring.png})
+![image](https://github.com/PaasmerIoT/Paasmer-Node/blob/master/Images/Paasmer_Wiring.png?raw=true)
  
