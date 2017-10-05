@@ -7,7 +7,7 @@
 **Node-RED** is a visual tool for wiring the Internet of Things, but it can also be used for other types of applications to quickly assemble flows of services. It provides an easy setup and simple UI based on which we can create our own flows, wiring, programs, and share and save data. It is very intuitive and easy to use and needs very little programming experience as such. 
 
 ## What else can Node-RED do?
-**Node-RED** can not only be used for Internet of Things applications, but it is a generic event-processing engine. For example you can use it to listen to events from http, websockets, tcp, Twitter and more and store this data in databases without having to program much if at all. You can also use it for example to implement simple **REST APIs**. 
+**Node-RED** can not only be used for Internet of Things applications, but it is a generic event-processing engine. For example you can use it to listen to events from http, websockets, tcp, Twitter and more and store this data in databases without having to program much if at all. You can also use it for example to implement simple **REST API's**. 
 
 ## Pre-Requisites:
 * Account in dashboard.paasmer.co.
